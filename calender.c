@@ -34,4 +34,13 @@ int main(){
     else if(year>=1962 && year<1973){
         m=1962;
     }
+    else if(year>=1973 && year<1979){
+        m=1973;
+    }
+    else if(year>=1979 && year<1990){
+        m=1979;
+    }
+    else if(year>=1990 && year<2001){
+        m=1990;
+    }
 }
