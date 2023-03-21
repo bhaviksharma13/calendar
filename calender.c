@@ -22,4 +22,16 @@ int main(){
     else if(year>=1923 && year<1934){
         m=1923;
     }
+    else if(year>=1934 && year<1945){
+        m=1934;
+    }
+    else if(year>=1945 && year<1951){
+        m=1945;
+    }
+    else if(year>=1951 && year<1962){
+        m=1951;
+    }
+    else if(year>=1962 && year<1973){
+        m=1962;
+    }
 }
