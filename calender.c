@@ -32,15 +32,15 @@ int main(){
         m=1951;
     }
     else if(year>=1962 && year<1973){
-        m=1962;
+        m=1964;
     }
     else if(year>=1973 && year<1979){
-        m=1973;
+        m=1975;
     }
     else if(year>=1979 && year<1990){
-        m=1979;
+        m=1977;
     }
     else if(year>=1990 && year<2001){
-        m=1990;
+        m=1995;
     }
 }
