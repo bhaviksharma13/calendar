@@ -52,5 +52,14 @@ int main(){
     else if(year>=2018 && year<=2023){
         m=2018;
     }
-
+    for(int i=m;i<=year;i++){
+        if(flag==1){
+            break;
+        }
+        if(i%4==0 && i%100!=0 || i%400==0){
+            y=366;
+        }
+        else{
+            y=365;
+        }
 }
