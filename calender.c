@@ -62,4 +62,12 @@ int main(){
         else{
             y=365;
         }
+        for(int j=1;j<=12;j++){
+            if(flag==1){
+                break;
+            }
+            if(j==2){
+                if(y==365){
+                    day=28;
+                }
 }
