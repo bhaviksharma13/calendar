@@ -70,4 +70,7 @@ int main(){
                 if(y==365){
                     day=28;
                 }
+                else{
+                    day=29;
+                }
 }
