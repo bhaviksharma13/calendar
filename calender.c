@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(){
-    printf("Welcome to Calendar Program\n");
+    printf("\n\n\t\t_______________________________\n");
+    printf("\t\t  Welcome to Calendar Program\n");
     int year,month,date;
     printf("Enter Year - ");
     scanf("%d",&year);
