@@ -78,6 +78,9 @@ int main(){
                     day=29;
                 }
             }
+            else if(j%2!=0 && j<=7 || j%2==0 && j>7){
+                day=31;
+            }
             else{
                 day=30;
             }
