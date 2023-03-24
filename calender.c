@@ -71,6 +71,9 @@ int main(){
                     day=28;
 
                 }
+                else{
+                    day=29;
+                }
             }
         }
     }
