@@ -1,0 +1,5 @@
+Scope of Calendar program:
+
+We will print whole month calendar instead of a particular day.
+
+This feature improves the productivity as well.
